@@ -1,2 +1,2 @@
 # webdevprojects
-Open source prototype projects for web use.
+Open source prototype projects for web use. 
