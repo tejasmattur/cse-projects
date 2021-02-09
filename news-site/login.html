@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href = "stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "">
+    <title>Login Page</title>
+</head>
+<body>
+    
+    <form action = "login.php" method = post>
+        <br>
+        <label for="user">Username:</label>
+        <input type = "text" id = "user" name ="user">
+        </br>
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password" />
+        </br>
+        <input type="hidden" name="token" value= "<?php echo $_SESSION['token'];?>" />
+        <input type = "submit" id = "btn" value="Login">
+        </r>
+     </form> 
+    <br>
+    <form action = forgotpassword.php method = post>
+        <label for="user">Username:</label>
+        <input type = "text" id = "user" name ="user">
+        <input type = "submit" id = "btn" value="Forgot Password?"/>
+    </form>
+ <form action = register.html method = get>
+    <input type = "submit" id = "btn" value="Register"/>
+</form>
+<form action = guestdashboard.php method = get>
+    <input type = "submit" id = "btn" value="View Stories as Guest!"/>
+</form>
+
+</body>
+</html>

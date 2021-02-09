@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <link rel = "stylesheet" href = "stylesheet.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!-- this is the front end doc for post creation. it will go to a back end createpost.php which will deal with database and reroute to dashboard-->
+
+<body>
+    Create a post!
+    <form action = dashboard.php method = post>
+        <input type = "text" id = "title" value = "title" placeholder = "Title">
+        <input type = "url" id = "postlink" value = "postlink" placeholder = "Enter post url here.">
+        <input type = "text" id = "brief" value = "brief" placeholder = "Write a brief description of the post.">
+        <input type = "submit" id = "btn" value = "Create Post!">
+    </form>
+
+    <img src = "spinningmonky.gif" alt = "something went wrong">
+</body>
+</html>

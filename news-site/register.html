@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Document </title>
+</head>
+<body>
+    <!-- this is a comment to indicate where register info will go-->
+    <p> 
+        Welcome! Register as a new user with a username and password! Please include a security question!
+    </p>
+    <form action = "register.php" method = post>
+        <br>
+        <label for = "user"> Username:</label>
+        <input type = "text" id = "user" name ="user">
+        <br>
+        <label for = "password"> Password: </label>
+        <input type = "password" id = "password" name = "password">
+        <label for = "securityquestion"> Security Question:</label>
+        <input type = "text" id = "securityquestion" name ="securityquestion">
+        <label for = "securityquestionanswer"> Security Answer:</label>
+        <input type = "text" id = "securityanswer" name ="securityanswer">
+        <input type = "submit" id = "btn" value="Register">
+
+        <br>
+        </form>
+    </body>
+</html>
+        <!-- there should be a way to skip writing a security question in case user wants more security,
+        but that means a forgotten password is unrecoverable. Also, security question answer should be hashed?-->
+        <!-- <label for = "securityquestion"> Write a security question in case password is forgotten: </label>
+        <input type = "text" id = "securityquestion" name = "securityquestion">
+        <br>
+        <label for = "securityquestionanswer"> Answer: </label>
+        <input type = "text" id = "securityquestionanswer" name = "securityquestionanswer">
