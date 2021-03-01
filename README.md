@@ -7,7 +7,7 @@ Languages/Frameworks Directory:
 * chat-room: Node.js, Socket.io, HTML/CSS
 * covid-tracing: React.js, Express, Node.js, PostgreSQL, HTML/CSS
 
-Collaborator: 
+Collaborator:
 
 Tejas Mattur
 GitHub Link: https://github.com/tejasmattur
