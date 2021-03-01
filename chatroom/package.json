@@ -1,0 +1,23 @@
+{
+  "name": "mod6-fall2020",
+  "version": "1.0.0",
+  "description": "Chat Room",
+  "main": "chat-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-fall-2020/module6-group-mod6-group-474190-475569.git"
+  },
+  "author": "Tejas Mattur, Justin Neff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse330-fall-2020/module6-group-mod6-group-474190-475569/issues"
+  },
+  "homepage": "https://github.com/cse330-fall-2020/module6-group-mod6-group-474190-475569#readme",
+  "dependencies": {
+    "mime": "^2.4.6",
+    "socket.io": "^3.0.1"
+  }
+}
