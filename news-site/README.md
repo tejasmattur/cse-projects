@@ -1,17 +1,15 @@
 # News Sharing Site
 
-Developed using PHP, HTML/CSS, SQL
+  * Users can register, login, logout.
 
-Securities: CSRF tokens, Password hashing/salting, password recovery via security question
+  * Users can create, edit, and delete posts (cannot edit others' posts).
 
-Functionalities: 
-  * Register  
-  * Login  
-  * Create Post (containing title, url, description of news article) 
-  * Edit Post (only can edit the brief of own posts)  
-  * Comment (on own and others' posts)  
-  * Delete Post (including all attached comments),  
-  * Delete Comment  
-  * View User Profile (shows all posts and comments)
-  * View as Guest (Gives access to dashboard with all posts and comments, 
-  does not allow posting and commenting as guest).
+  * Users can comment on other users' posts.
+
+  * Users can view other user profiles, showing all posts and comments.
+
+  * Site can be viewed as guest, where all content can be seen but no posts or comments can be made.
+
+  * Account password can be recovered via security question.
+
+  * Uses CSRF tokens, passwords and security question details are hashed and salted. 
