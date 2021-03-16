@@ -3,7 +3,7 @@ Open source prototype projects for web use.
 
 Languages/Frameworks Directory: 
 * news-site: HTML/CSS, PHP, mySQL
-* calendar-site: Javascript, Node.js, mySQL, HTML/CSS, PHP
+* calendar-site: Javascript, mySQL, HTML/CSS, PHP
 * chatroom: Javascript, Node.js, Socket.io, HTML/CSS
 * covidtracing: React.js, Express, Node.js, PostgreSQL, HTML/CSS
 
