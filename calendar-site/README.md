@@ -1,6 +1,8 @@
 # Calendar Site
 
-Overview:
+Overview: A site similar to Google Calendar that allows users to keep track of events and displays a month-by-month calendar view with the events posted under their relevant dates by time.
+
+Functionalities:
 
 * Displays month by month calendar view, containing a date grid which show events assigned to that day.
 
