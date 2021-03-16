@@ -1,7 +1,7 @@
 ## COVID tracing application ##
 Created By Justin Neff and Tejas Mattur
 
-Overview: A COVID multitool application. Alerts users and advises them to get tested if daily symptom log indicates that they have a potential COVID infection.  Users are able to run a COVID-tracing function that alerts user if any contact with a COVID-positive user was made to the tertiary level (e.g. A-D is a tertiary contact if: A-B, B-C, C-D, are primary contacts) and outputs a "size of network" color (described below, essentially a warning system of the range of contact). A few other useful features were added as seen below. Essentially, we envisioned this being a tool that universities or other contained communities could use. If every member of a group inputted connections and symptoms daily, the university could easily customize their COVID approach based on their observed data, and members of the community could act more knowledgeably and safely.
+Overview: A COVID multitool application. Alerts users and advises them to get tested if daily symptom log indicates that they have a potential COVID infection.  Users are able to run a COVID-tracing function that alerts user if any contact with a COVID-positive user was made to the tertiary level (e.g. A-D is a tertiary contact if: A-B, B-C, C-D, are primary contacts) and outputs a "size of network" color (described below, essentially a warning system of the range of contact). A few other useful features were added as seen below. Essentially, we envisioned this being a tool that universities could use. If every student inputted connections and symptoms daily, the university could easily customize their COVID approach based on their observed data, and students could act more knowledgeably and safely.
 
 
 
