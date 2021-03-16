@@ -1,5 +1,10 @@
 # News Sharing Site
 
+Overview: An online forum for users to post news articles for others to view and comment on.
+
+
+Functionalities: 
+
   * Users can register, login, logout.
 
   * Users can create, edit, and delete posts (cannot edit others' posts).
