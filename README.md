@@ -5,7 +5,7 @@ Languages/Frameworks Directory:
 * news-site: HTML/CSS, PHP, mySQL
 * calendar-site: Javascript, mySQL, HTML/CSS, PHP
 * chatroom: Javascript, Node.js, Socket.io, HTML/CSS
-* covidtracing: React.js, Express, Node.js, PostgreSQL, HTML/CSS
+* covidtracing: Javascript, React.js, Express, Node.js, PostgreSQL, HTML/CSS
 
 Collaborator:
 
