@@ -1,5 +1,5 @@
 # Projects
-Open source prototype projects for web use. 
+Prototype projects for web use. 
 
 Languages/Frameworks Directory: 
 * news-site: HTML/CSS, PHP, mySQL
