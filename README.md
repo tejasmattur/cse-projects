@@ -3,7 +3,7 @@ Various Things I've worked on.
 
 Web Prototyping:
 
-For the most sophisticated code I've posted, check out the covid tracing app. The other projects represent work I've done with relational databases, backend web development, web sockets, and authentication web security.
+For the most sophisticated code I've posted, check out the covid tracing app (postgreSQL, React, Express stack). The projects (including the aforementioned) represent work I've done with relational databases, backend web development, web sockets, and authentication web security.
 
   Languages/Frameworks Directory: 
   * news-site: HTML/CSS, PHP, mySQL
@@ -19,4 +19,4 @@ For the most sophisticated code I've posted, check out the covid tracing app. Th
   
 Production Level Websites
   
-  **Upon Completion, Facial Recognition Home Lock code will be uploaded here!
+  **Upon Completion, Facial Recognition Home Lock code will be uploaded here!**
