@@ -3,7 +3,7 @@ Various Things I've worked on.
 
 Web Prototyping:
 
-For the most sophisticated code I've posted, check out the covid tracing app (postgreSQL, React, Express stack). The projects (including the aforementioned) represent work I've done with relational databases, backend web development, web sockets, and authentication web security.
+For the most sophisticated code I've posted, check out the covid tracing app (postgreSQL, React, Express stack). The projects in this section (including the aforementioned) represent work I've done with relational databases, backend web development, web sockets, and web security.
 
   Languages/Frameworks Directory: 
   * news-site: HTML/CSS, PHP, mySQL
