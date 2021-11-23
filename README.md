@@ -19,4 +19,8 @@ For the most sophisticated code I've posted, check out the covid tracing app (po
   
 Production Level Websites
   
-  **Upon Completion, Facial Recognition Home Lock code will be uploaded here!**
+  **Upon Completion, Facial Recognition Home Lock code will be uploaded!**
+  
+Machine Learning Implementations
+
+  **Upon Completion, Support Vector Machine implementation and several variants thereof will be uploaded!**
