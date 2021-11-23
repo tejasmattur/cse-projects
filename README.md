@@ -17,4 +17,4 @@ Production Level Websites
   
 Machine Learning Implementations
 
-  **Upon Completion, Support Vector Machine implementation and several variants thereof will be uploaded!**
+  **Upon Completion, Support Vector Machine implementation (linear, nonlinear variants) will be uploaded!**
