@@ -11,7 +11,7 @@ For the most sophisticated code I've posted in this section, check out the covid
   * chatroom: Javascript, Node.js, Socket.io, HTML/CSS
   * covidtracing: Javascript, React.js, Express, Node.js, PostgreSQL, HTML/CSS
 
--------------------------------------------------------------------------------
+**-------------------------------------------------------------------------------**
   
 Production Level Websites
   
@@ -20,6 +20,8 @@ Production Level Websites
   Website: Next.js, MongoDB
   
   Lock: Python, Raspberry Pi
+  
+**-------------------------------------------------------------------------------**
   
 Machine Learning Implementations
 
