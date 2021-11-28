@@ -7,9 +7,9 @@ For the most sophisticated code I've posted in this section, check out the covid
 
   Languages/Frameworks Directory: 
   * news-site: HTML/CSS, PHP, mySQL
-  * calendar-site: Javascript, mySQL, HTML/CSS, PHP
-  * chatroom: Javascript, Node.js, Socket.io, HTML/CSS
-  * covidtracing: Javascript, React.js, Express, Node.js, PostgreSQL, HTML/CSS
+  * calendar-site: Node.js, mySQL, HTML/CSS, PHP
+  * chatroom: Node.js, Socket.io, HTML/CSS
+  * covidtracing: React.js, Express, PostgreSQL
 
 -------------------------------------------------------------------------------
   
