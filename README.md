@@ -13,7 +13,7 @@ For the most sophisticated code I've posted in this section, check out the covid
 
 -------------------------------------------------------------------------------
   
-Production Level Websites
+Production Level Websites:
   
   **Upon Completion, Facial Recognition Home Lock code will be uploaded!**
   
@@ -23,7 +23,7 @@ Production Level Websites
   
 -------------------------------------------------------------------------------
   
-Machine Learning Implementations
+Machine Learning Implementations:
 
   **Upon Completion, Support Vector Machine implementation (linear, nonlinear variants) will be uploaded!**
   
