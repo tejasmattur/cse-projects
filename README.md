@@ -14,10 +14,12 @@ For the most sophisticated code I've posted in this section, check out the covid
 Production Level Websites
   
   **Upon Completion, Facial Recognition Home Lock code will be uploaded!**
+  
     Website: Next.js, MongoDB
     Lock: Python, Raspberry Pi
   
 Machine Learning Implementations
 
   **Upon Completion, Support Vector Machine implementation (linear, nonlinear variants) will be uploaded!**
+  
     SVM: Python
