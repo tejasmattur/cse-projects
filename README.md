@@ -16,6 +16,7 @@ Production Level Websites
   **Upon Completion, Facial Recognition Home Lock code will be uploaded!**
   
   Website: Next.js, MongoDB
+  
   Lock: Python, Raspberry Pi
   
 Machine Learning Implementations
