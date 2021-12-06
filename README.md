@@ -17,7 +17,7 @@ Production Level Websites:
   
   **Once Finalized, Facial Recognition Home Lock code will be uploaded!**
   
-  *update as of 12/6: All code (Node.js, Python) will be uploaded here by the end of the week*
+  *Update as of 12/6: All code (Node.js, Python) will be uploaded here by the end of the week*
   
   Website: Next.js, MongoDB
   
@@ -28,5 +28,7 @@ Production Level Websites:
 Machine Learning Implementations:
 
   **Upon Completion, Support Vector Machine implementation (linear, nonlinear variants) will be uploaded!**
+  
+  *Update as of 12/6: Python scripts will be uploaded here by 12/18 at the latest*
   
   SVM: Python
