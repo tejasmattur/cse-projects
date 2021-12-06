@@ -16,7 +16,8 @@ For the most sophisticated code I've posted in this section, check out the covid
 Production Level Websites:
   
   **Once Finalized, Facial Recognition Home Lock code will be uploaded!**
-  *update as of 12/6: All code (Node.js, Python) will be uploaded here by the end of this week*
+  
+  *update as of 12/6: All code (Node.js, Python) will be uploaded here by the end of the week*
   
   Website: Next.js, MongoDB
   
