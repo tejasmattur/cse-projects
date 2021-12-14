@@ -1,30 +1,45 @@
 # Projects
-Various Things I've worked on. 
+
+Various Things I've worked on.
+
+---
 
 Web Prototyping:
 
 For the most sophisticated code I've posted in this section, check out the covid tracing app (postgreSQL, React, Express stack). The projects in this section (including the aforementioned) represent work I've done with relational databases, backend web development, web sockets, and web security.
 
-  Languages/Frameworks Directory: 
-  * news-site: HTML/CSS, PHP, mySQL
-  * calendar-site: Node.js, mySQL, HTML/CSS, PHP
-  * chatroom: Node.js, Socket.io, HTML/CSS
-  * covidtracing: React.js, Express, PostgreSQL
+Languages/Frameworks Directory:
 
--------------------------------------------------------------------------------
-  
+- news-site: HTML/CSS, PHP, mySQL
+- calendar-site: Node.js, mySQL, HTML/CSS, PHP
+- chatroom: Node.js, Socket.io, HTML/CSS
+- covidtracing: React.js, Express, PostgreSQL
+
+---
+
+Applied Object-Oriented Techniques:
+
+Languages/Frameworks Directory:
+
+- file-system: C++
+- linked-list: C++
+- custom-gomoku: C++
+
+---
+
 Production Level Websites:
-  
-  **Upon Completion, Facial Recognition Home Lock code will be uploaded!**
-  
-  Website: Next.js, MongoDB
-  
-  Lock: Python, Raspberry Pi
-  
--------------------------------------------------------------------------------
-  
-Machine Learning Implementations:
 
-  **Upon Completion, Support Vector Machine implementation (linear, nonlinear variants) will be uploaded!**
-  
-  SVM: Python
+Languages/Frameworks Directory:
+
+- biometric-home-lock
+  Website: Next.js, MongoDB, TypeScript
+  Lock: Python, Raspberry Pi
+  Hosted at https://www.lockplus.tk !
+
+---
+
+Research Projects:
+
+**Upon Completion, Support Vector Machine implementation (linear, kernel trick variants) alongside research paper will be uploaded!**
+
+SVM: Python
