@@ -11,7 +11,8 @@ Languages/Frameworks Directory:
 - biometric-home-lock
   Website: Next.js, MongoDB, TypeScript
   Lock: Python, Raspberry Pi
-  Hosted at https://www.lockplus.tk !
+  
+- Hosted at https://www.lockplus.tk !
 
 ---
 
