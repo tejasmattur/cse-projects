@@ -1,4 +1,4 @@
-#Biometric Home Lock#
+# Biometric Home Lock
 
 We created Lockplus to simulate a biometric facial-recognition lock. Lockplus has two-components, a website and a raspberry pi to simulate a "lock". Through our website, users can register an account and upload images of their faces as well as faces of other users they want to be able to access their lock. From there, the uploaded images are stored in our MongoDB database to be fetched by the raspberry pi in real-time, which then trains those images to their respective user using its facial-recognition model. Registered users can face the raspberry pi's camera and press a button to "scan" their face and be granted access.
 
