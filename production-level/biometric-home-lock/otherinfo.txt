@@ -1,3 +1,0 @@
-database admin (for connection string)
-user: lockAdmin
-pass: lock2021
