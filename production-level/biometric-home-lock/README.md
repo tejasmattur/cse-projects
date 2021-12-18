@@ -6,6 +6,8 @@ We created Lockplus to simulate a biometric facial-recognition lock. Lockplus ha
 
 In addition, every unlock attempt (noted by each raspberry pi button press) takes an image which is uploaded to our database and displayed in real-time on our website, stating which user unlocked the lock (will display "unknown" for failed attempt), as well as the image taken during the attempt and the time and date it was taken.
 
-## Environment variables
-Relevant variable information in PROCESSENV.txt file. 
-Create a file .env.local with all the information
+Hosted:
+
+# https://www.lockplus.tk
+
+Facial Recognition Module within "faceRecognition_Rpi" folder, the rest of the code is web-app.
