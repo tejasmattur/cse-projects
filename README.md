@@ -26,14 +26,6 @@ Languages/Frameworks Directory:
 
 ---
 
-Research Projects:
-
-**Upon Completion, Support Vector Machine implementation (linear, kernel trick variants) alongside research paper will be uploaded!**
-
-SVM: Python
-
----
-
 Web Prototyping:
 
 For the most sophisticated code I've posted in this section, check out the covid tracing app (postgreSQL, React, Express stack). The projects in this section (including the aforementioned) represent work I've done with relational databases, backend web development, web sockets, and web security.
