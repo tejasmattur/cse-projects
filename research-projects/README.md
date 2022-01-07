@@ -4,4 +4,4 @@ In reality, it is often the case that a linear hyperplane does not exist for the
 
 In this paper, we discuss our experiments to test multiple different kernels on a binary classification data set.
 
-**Paper, collaborator credit, and associated software to be uploaded by end of 2021!**
+**Paper, collaborator credit, and associated software to be uploaded once permission from instructor is granted**
