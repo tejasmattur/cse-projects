@@ -25,6 +25,6 @@ Functionalities:
 
 * "Risk" attribute that assigns to every user, based off of two components: the logged symptoms by a user as well as their COVID network status that is determined after contact tracing is applied. For example, a user's risk will be elevated if contact tracing determines that they have a connection to a COVID-positive user.
 
-Justin Neff
+Collaborator: Justin Neff
 LinkedIn: https://www.linkedin.com/in/justinneff5/
 GitHub: https://github.com/justinneff5
