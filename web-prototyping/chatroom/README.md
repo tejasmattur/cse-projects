@@ -22,6 +22,6 @@ Functionalities:
 
 - Admin of room can transfer ownership to another user, making them the admin.
 
-Justin Neff
+Collaborator: Justin Neff
 LinkedIn: https://www.linkedin.com/in/justinneff5/
 GitHub: https://github.com/justinneff5
