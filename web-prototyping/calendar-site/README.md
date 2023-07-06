@@ -20,6 +20,6 @@ Functionalities:
 
 - Safe from SQL Injections and XSS attacks, uses CSRF tokens and HTTP-only cookie.
 
-Collaborator: Tejas Mattur
-LinkedIn: https://www.linkedin.com/in/tejas-m-02b464133/
-GitHub: https://github.com/tejasmattur
+Justin Neff
+LinkedIn: https://www.linkedin.com/in/justinneff5/
+GitHub: https://github.com/justinneff5
