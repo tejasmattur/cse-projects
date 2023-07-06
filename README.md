@@ -4,18 +4,6 @@ Various Things I've worked on.
 
 ---
 
-Production Level Websites:
-
-Languages/Frameworks Directory:
-
-- biometric-home-lock
-  Website: Next.js, MongoDB, TypeScript
-  Lock: Python, Raspberry Pi
-  
-- Hosted at https://www.lockplus.tk !
-
----
-
 Applied Object-Oriented Techniques:
 
 Languages/Frameworks Directory:
