@@ -18,6 +18,6 @@ Functionalities:
 
 - Uses CSRF tokens, passwords and security question details are hashed and salted.
 
-Collaborator: Tejas Mattur
-LinkedIn: https://www.linkedin.com/in/tejas-m-02b464133/
-GitHub: https://github.com/tejasmattur
+Collaborator: Justin Neff
+LinkedIn: https://www.linkedin.com/in/justinneff5/
+GitHub: https://github.com/justinneff5
